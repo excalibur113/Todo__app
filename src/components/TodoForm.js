@@ -42,7 +42,7 @@ function TodoForm(props) {
       ) : (
         <>
           <input
-            placeholder='Add a todo.....git init'
+            placeholder='Add a todo.....'
             value={input}
             onChange={handleChange}
             name='text'
